@@ -1,0 +1,1 @@
+This folder contains normalized canonical SMILES lists and corresponding activity labels for 7 test toxicity endpoints
