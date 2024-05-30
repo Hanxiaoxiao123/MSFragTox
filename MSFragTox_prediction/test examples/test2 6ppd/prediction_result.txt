@@ -1,0 +1,4 @@
+Prediction result1
+Toxicity endpoints: Aromatase,AhR,AR,ER,GR,TSHR,TR
+Predicted toxicity possibility: 0.46331552,0.83402365,0.0061696237,0.57930845,0.013527623,0.02845433,0.0401927
+Prediction result: inactive,active,inactive,active,inactive,inactive,inactive

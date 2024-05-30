@@ -1,0 +1,6 @@
+index	1
+name	test dppd_FEATURE_1
+ionMass	261.1386
+ionType	[M + H]+
+confidenceScore	0.5852402974751353
+rankingScoreType	sirius.scores.SiriusScore

@@ -1,0 +1,6 @@
+index	1
+name	test5 IPPD_FEATURE_1
+ionMass	227.1543
+ionType	[M + H]+
+confidenceScore	0.5345664606984921
+rankingScoreType	sirius.scores.SiriusScore

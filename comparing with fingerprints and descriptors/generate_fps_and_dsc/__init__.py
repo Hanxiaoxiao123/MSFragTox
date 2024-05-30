@@ -12,7 +12,7 @@ from pubchemfp import GetPubChemFPs  #881 features
 def get_fps(path,fp_function,pathout):
 	#read stan_smiles activity list
 	df=pd.read_csv(path,header=0,index_col=None)
-	df=df.iloc[:10,:] #for test
+	# df=df.iloc[:10,:] #for test
 	smiles=df['stan_smiles']
 	fp_list=[]
 	if fp_function=='pubchem':
