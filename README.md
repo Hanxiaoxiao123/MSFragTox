@@ -1,6 +1,6 @@
 # **MSFragTox**
 
-![image](https://github.com/Hanxiaoxiao123/MSFragTox/assets/128465539/fc172335-ddae-480f-b445-a4c47bf64cd9)
+![image](https://github.com/Hanxiaoxiao123/MSFragTox/blob/main/f1.jpg)
 
 # **Training of MSFragTox model**
 
